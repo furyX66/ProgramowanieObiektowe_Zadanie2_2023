@@ -1,0 +1,129 @@
+{
+  "Screens": [
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 0,
+      "Text": "MainSceen->AnimalsScreen->MammalsScreen->DogScreen"
+    },
+    {
+      "BackgroundColor": 0,
+      "ForegroundColor": 14,
+      "Text": "Your available choices are:"
+    },
+    {
+      "BackgroundColor": 0,
+      "ForegroundColor": 14,
+      "Text": "0. Exit"
+    },
+    {
+      "BackgroundColor": 0,
+      "ForegroundColor": 14,
+      "Text": "1. List all dogs"
+    },
+    {
+      "BackgroundColor": 0,
+      "ForegroundColor": 14,
+      "Text": "2. Create a new dog"
+    },
+    {
+      "BackgroundColor": 0,
+      "ForegroundColor": 14,
+      "Text": "3. Delete existing dog"
+    },
+    {
+      "BackgroundColor": 0,
+      "ForegroundColor": 14,
+      "Text": "4. Modify existing dog"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 0,
+      "Text": "Please enter your choice: "//7
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 0,
+      "Text": "Going back to parent menu..."//8
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 0,
+      "Text": "Invalid choice. Try again."
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 0,
+      "Text": "Here's a list of dogs:" //10
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 0,
+      "Text": "The list of dogs is empty."
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 0,
+      "Text": "Dog has been added to a list of dogs."
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 0,
+      "Text": "Invalid input."
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 0,
+      "Text": "What is the name of the dog you want to delete?"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 0,
+      "Text": "Dog has been deleted from a list of dogs"//15
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 0,
+      "Text": "Dog not found."
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 0,
+      "Text": "Invalid input."
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 0,
+      "Text": "What is the name of the dog you want to edit? "
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 0,
+      "Text": "Dog after edit: "
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 0,
+      "Text": "Dog not found."//20
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 0,
+      "Text": "Invalid input. Try again."
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 0,
+      "Text": "What name of the dog?"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 0,
+      "Text": "What is the dog's age?"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 0,
+      "Text": "What is the dog's breed?"//24
+    }
+  ]
+}

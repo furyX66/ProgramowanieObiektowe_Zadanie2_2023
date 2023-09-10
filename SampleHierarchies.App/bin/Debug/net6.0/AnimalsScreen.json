@@ -1,0 +1,74 @@
+{
+  "Screens": [
+    {
+      "BackgroundColor": 8,
+      "ForegroundColor": 14,
+      "Text": "MainSceen->AnimalsScreen"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 8,
+      "Text": "Your available choices are:"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 8,
+      "Text": "0. Exit"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 8,
+      "Text": "1. Mammals"
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 8,
+      "Text": "2. Save to file"
+    },
+    {
+      "BackgroundColor": 8,
+      "ForegroundColor": 14,
+      "Text": "Please enter your choice: "
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 8,
+      "Text": "Going back to parent menu..."
+    },
+    {
+      "BackgroundColor": 8,
+      "ForegroundColor": 14,
+      "Text": "Invalid choice. Try again."
+    },
+    {
+      "BackgroundColor": 14,
+      "ForegroundColor": 8,
+      "Text": "Save data to file: "
+    },
+    {
+      "BackgroundColor": 10,
+      "ForegroundColor": 15,
+      "Text": "Data saving was successful."
+    },
+    {
+      "BackgroundColor": 12,
+      "ForegroundColor": 15,
+      "Text": "Data saving was not successful."
+    },
+    {
+      "BackgroundColor": 8,
+      "ForegroundColor": 14,
+      "Text": "Read data from file:"
+    },
+    {
+      "BackgroundColor": 8,
+      "ForegroundColor": 14,
+      "Text": "Data reading was successful."
+    },
+    {
+      "BackgroundColor": 8,
+      "ForegroundColor": 14,
+      "Text": "Data read was not successful."
+    }
+  ]
+}

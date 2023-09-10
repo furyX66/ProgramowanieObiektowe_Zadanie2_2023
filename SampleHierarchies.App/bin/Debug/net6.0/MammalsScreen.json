@@ -1,0 +1,54 @@
+{
+  "Screens": [
+    {
+      "BackgroundColor": 13,
+      "ForegroundColor": 15,
+      "Text": "MainSceen->AnimalsScreen->MammalsScreen"
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 13,
+      "Text": "Your available choices are:"
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 13,
+      "Text": "0. Exit"
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 13,
+      "Text": "1. Dogs"
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 13,
+      "Text": "2. Elephants"
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 13,
+      "Text": "3. Orangutans"
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 13,
+      "Text": "4. Beavers"
+    },
+    {
+      "BackgroundColor": 13,
+      "ForegroundColor": 15,
+      "Text": "Please enter your choice: "
+    },
+    {
+      "BackgroundColor": 13,
+      "ForegroundColor": 15,
+      "Text": "Going back to parent menu... "
+    },
+    {
+      "BackgroundColor": 13,
+      "ForegroundColor": 15,
+      "Text": "Invalid choice. Try again."
+    }
+  ]
+}

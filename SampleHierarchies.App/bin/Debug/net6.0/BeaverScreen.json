@@ -1,0 +1,144 @@
+{
+  "Screens": [
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 0,
+      "Text": "MainSceen->AnimalsScreen->MammalsScreen->BeaverScreen" //0
+    },
+    {
+      "BackgroundColor": 0,
+      "ForegroundColor": 9,
+      "Text": "Your available choices are:" //1
+    },
+    {
+      "BackgroundColor": 0,
+      "ForegroundColor": 9,
+      "Text": "0. Exit" //2
+    },
+    {
+      "BackgroundColor": 0,
+      "ForegroundColor": 9,
+      "Text": "1. List all beavers" //3
+    },
+    {
+      "BackgroundColor": 0,
+      "ForegroundColor": 9,
+      "Text": "2. Create a new beaver" //4
+    },
+    {
+      "BackgroundColor": 0,
+      "ForegroundColor": 9,
+      "Text": "3. Delete existing beaver" //5
+    },
+    {
+      "BackgroundColor": 0,
+      "ForegroundColor": 9,
+      "Text": "4. Modify existing beaver" //6
+    },
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 0,
+      "Text": "Please enter your choice: " //7
+    },
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 0,
+      "Text": "Going back to parent menu..."
+    },
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 0,
+      "Text": "Invalid choice. Try again."
+    },
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 0,
+      "Text": "Here's a list of beavers:" //10
+    },
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 0,
+      "Text": "The list of beavers is empty."
+    },
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 0,
+      "Text": "Beaver has been added to a list of beavers."
+    },
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 0,
+      "Text": "Invalid input."
+    },
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 0,
+      "Text": "What is the name of the beaver you want to delete?"
+    },
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 0,
+      "Text": "Beaver has been deleted from a list of beavers" //15
+    },
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 0,
+      "Text": "Beaver not found."
+    },
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 0,
+      "Text": "Invalid input."
+    },
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 0,
+      "Text": "What is the name of the beaver you want to edit? "
+    },
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 0,
+      "Text": "Beaver after edit: "
+    },
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 0,
+      "Text": "Beaver not found." //20
+    },
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 0,
+      "Text": "Invalid input. Try again."
+    },
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 0,
+      "Text": "What name of the beaver?"
+    },
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 0,
+      "Text": "What is the beaver's age?"
+    },
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 0,
+      "Text": "What color beaver is?" //24
+    },
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 0,
+      "Text": "What is beaver's favorite food?" //25
+    },
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 0,
+      "Text": "What length of beaver's tail?" //26
+    },
+    {
+      "BackgroundColor": 9,
+      "ForegroundColor": 0,
+      "Text": "Can beaver build a dam?(Yes/No)" //27
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "Screens": [
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 0,
+      "Text": "MainSceen" //0
+    },
+    {
+      "BackgroundColor": 0,
+      "ForegroundColor": 15,
+      "Text": "Your available choices are:"//1
+    },
+    {
+      "BackgroundColor": 0,
+      "ForegroundColor": 15,
+      "Text": "0. Exit" //2
+    },
+    {
+      "BackgroundColor": 0,
+      "ForegroundColor": 15,
+      "Text": "1. Animals"
+    },
+    {
+      "BackgroundColor": 0,
+      "ForegroundColor": 15,
+      "Text": "2. Create a new settings"
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 0,
+      "Text": "Please enter your choice: "
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 0,
+      "Text": "Sorry, out of order."
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 0,
+      "Text": "Goodbye."
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 0,
+      "Text": "Invalid choice. Try again."
+    }
+  ]
+}

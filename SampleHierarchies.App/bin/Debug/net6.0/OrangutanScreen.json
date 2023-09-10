@@ -1,0 +1,149 @@
+{
+  "Screens": [
+    {
+      "BackgroundColor": 10,
+      "ForegroundColor": 0,
+      "Text": "MainSceen->AnimalsScreen->MammalsScreen->OrangutanScreen"
+    },
+    {
+      "BackgroundColor": 0,
+      "ForegroundColor": 10,
+      "Text": "Your available choices are:"
+    },
+    {
+      "BackgroundColor": 0,
+      "ForegroundColor": 10,
+      "Text": "0. Exit"
+    },
+    {
+      "BackgroundColor": 0,
+      "ForegroundColor": 10,
+      "Text": "1. List all orangutans"
+    },
+    {
+      "BackgroundColor": 0,
+      "ForegroundColor": 10,
+      "Text": "2. Create a new orangutan"
+    },
+    {
+      "BackgroundColor": 0,
+      "ForegroundColor": 10,
+      "Text": "3. Delete existing orangutan"
+    },
+    {
+      "BackgroundColor": 0,
+      "ForegroundColor": 10,
+      "Text": "4. Modify existing orangutan"
+    },
+    {
+      "BackgroundColor": 10,
+      "ForegroundColor": 0,
+      "Text": "Please enter your choice: "
+    },
+    {
+      "BackgroundColor": 10,
+      "ForegroundColor": 0,
+      "Text": "Going back to parent menu..."
+    },
+    {
+      "BackgroundColor": 10,
+      "ForegroundColor": 0,
+      "Text": "Invalid choice. Try again."
+    },
+    {
+      "BackgroundColor": 10,
+      "ForegroundColor": 0,
+      "Text": "Here's a list of orangutans:" //10
+    },
+    {
+      "BackgroundColor": 10,
+      "ForegroundColor": 0,
+      "Text": "The list of orangutans is empty."
+    },
+    {
+      "BackgroundColor": 10,
+      "ForegroundColor": 0,
+      "Text": "orangutan has been added to a list of orangutans."
+    },
+    {
+      "BackgroundColor": 10,
+      "ForegroundColor": 0,
+      "Text": "Invalid input."
+    },
+    {
+      "BackgroundColor": 10,
+      "ForegroundColor": 0,
+      "Text": "What is the name of the orangutan you want to delete?"
+    },
+    {
+      "BackgroundColor": 10,
+      "ForegroundColor": 0,
+      "Text": "Orangutan has been deleted from a list of orangutans" //15
+    },
+    {
+      "BackgroundColor": 10,
+      "ForegroundColor": 0,
+      "Text": "Orangutan not found."
+    },
+    {
+      "BackgroundColor": 10,
+      "ForegroundColor": 0,
+      "Text": "Invalid input."
+    },
+    {
+      "BackgroundColor": 10,
+      "ForegroundColor": 0,
+      "Text": "What is the name of the orangutan you want to edit? "
+    },
+    {
+      "BackgroundColor": 10,
+      "ForegroundColor": 0,
+      "Text": "Orangutan after edit: "
+    },
+    {
+      "BackgroundColor": 10,
+      "ForegroundColor": 0,
+      "Text": "Orangutan not found." //20
+    },
+    {
+      "BackgroundColor": 10,
+      "ForegroundColor": 0,
+      "Text": "Invalid input. Try again." //21
+    },
+    {
+      "BackgroundColor": 10,
+      "ForegroundColor": 0,
+      "Text": "What name of the orangutan?" //22
+    },
+    {
+      "BackgroundColor": 10,
+      "ForegroundColor": 0,
+      "Text": "What is the orangutan's age?" //23
+    },
+    {
+      "BackgroundColor": 10,
+      "ForegroundColor": 0,
+      "Text": "Does orangutan like to climb trees(Yes/No)? " //24
+    },
+    {
+      "BackgroundColor": 10,
+      "ForegroundColor": 0,
+      "Text": "Does orangutan have opposable thumbs(Yes/No)? " //25
+    },
+    {
+      "BackgroundColor": 10,
+      "ForegroundColor": 0,
+      "Text": "Does orangutan like to be alone(Yes/No)? " //26
+    },
+    {
+      "BackgroundColor": 10,
+      "ForegroundColor": 0,
+      "Text": "Does orangutan have slow reproduction rate(Yes/No)? " //27
+    },
+    {
+      "BackgroundColor": 10,
+      "ForegroundColor": 0,
+      "Text": "What is level of his iq? " //28
+    }
+  ]
+}

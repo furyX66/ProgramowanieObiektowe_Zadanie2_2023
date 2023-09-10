@@ -1,0 +1,149 @@
+{
+  "Screens": [
+    {
+      "BackgroundColor": 12,
+      "ForegroundColor": 0,
+      "Text": "MainSceen->AnimalsScreen->MammalsScreen->AfricanElephantsScreen"//0
+    },
+    {
+      "BackgroundColor": 0,
+      "ForegroundColor": 12,
+      "Text": "Your available choices are:"//1
+    },
+    {
+      "BackgroundColor": 0,
+      "ForegroundColor": 12,
+      "Text": "0. Exit"//2
+    },
+    {
+      "BackgroundColor": 0,
+      "ForegroundColor": 12,
+      "Text": "1. List all elephants"//3
+    },
+    {
+      "BackgroundColor": 0,
+      "ForegroundColor": 12,
+      "Text": "2. Create a new elephant"//4
+    },
+    {
+      "BackgroundColor": 0,
+      "ForegroundColor": 12,
+      "Text": "3. Delete existing elephant"//5
+    },
+    {
+      "BackgroundColor": 0,
+      "ForegroundColor": 12,
+      "Text": "4. Modify existing elephant"//6
+    },
+    {
+      "BackgroundColor": 12,
+      "ForegroundColor": 0,
+      "Text": "Please enter your choice: "//7
+    },
+    {
+      "BackgroundColor": 12,
+      "ForegroundColor": 0,
+      "Text": "Going back to parent menu...я"//8
+    },
+    {
+      "BackgroundColor": 12,
+      "ForegroundColor": 0,
+      "Text": "Invalid choice. Try again."//9
+    },
+    {
+      "BackgroundColor": 12,
+      "ForegroundColor": 0,
+      "Text": "Here's a list of elephants: "//10
+    },
+    {
+      "BackgroundColor": 12,
+      "ForegroundColor": 0,
+      "Text": "The list of elephants is empty."//11
+    },
+    {
+      "BackgroundColor": 12,
+      "ForegroundColor": 0,
+      "Text": "Elephant has been added to a list of elephants"//12
+    },
+    {
+      "BackgroundColor": 12,
+      "ForegroundColor": 0,
+      "Text": "Invalid input."//13
+    },
+    {
+      "BackgroundColor": 12,
+      "ForegroundColor": 0,
+      "Text": "What is the name of the elephant you want to delete?"//14
+    },
+    {
+      "BackgroundColor": 12,
+      "ForegroundColor": 0,
+      "Text": "Elephant has been deleted from a list of elephants"//15
+    },
+    {
+      "BackgroundColor": 12,
+      "ForegroundColor": 0,
+      "Text": "Elephant not found."//16
+    },
+    {
+      "BackgroundColor": 12,
+      "ForegroundColor": 0,
+      "Text": "Invalid input."//17
+    },
+    {
+      "BackgroundColor": 12,
+      "ForegroundColor": 0,
+      "Text": "What is the name of the elephant you want to edit?"//18
+    },
+    {
+      "BackgroundColor": 12,
+      "ForegroundColor": 0,
+      "Text": "Elephant after edit:"//19
+    },
+    {
+      "BackgroundColor": 12,
+      "ForegroundColor": 0,
+      "Text": "Elephant not found."//20
+    },
+    {
+      "BackgroundColor": 12,
+      "ForegroundColor": 0,
+      "Text": "Invalid input. Try again."//21
+    },
+    {
+      "BackgroundColor": 12,
+      "ForegroundColor": 0,
+      "Text": "What name of the elephant? "//22
+    },
+    {
+      "BackgroundColor": 12,
+      "ForegroundColor": 0,
+      "Text": "What is the elephant's age? "//23
+    },
+    {
+      "BackgroundColor": 12,
+      "ForegroundColor": 0,
+      "Text": "What is the elephant's height? "//24
+    },
+    {
+      "BackgroundColor": 12,
+      "ForegroundColor": 0,
+      "Text": "What is the elephant's weight?"//25
+    },
+    {
+      "BackgroundColor": 12,
+      "ForegroundColor": 0,
+      "Text": "What is the elephant's tusk length?" //26
+    },
+    {
+      "BackgroundColor": 12,
+      "ForegroundColor": 0,
+      "Text": "How many years will he live? "//27
+    },
+    {
+      "BackgroundColor": 12,
+      "ForegroundColor": 0,
+      "Text": "Describe elephant's socical behavior: "//28
+    }
+  ]
+}
